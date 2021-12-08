@@ -1,0 +1,702 @@
+2021-11-20 12:10:49,758 - Starting the training. Good luck!
+2021-11-20 13:14:05,660 - [32mTest accuracy, improved @epoch 1[0m
+2021-11-20 13:14:15,073 - Epoch:1
+2021-11-20 13:14:15,074 - train: Total-Loss 5.9653, Listening-Acc 0.2170, Object-Clf-Acc: 0.3064, Text-Clf-Acc: 0.6333
+2021-11-20 13:14:15,074 - train: Epoch-time 61.243
+2021-11-20 13:14:15,074 - test: Total-Loss 4.4625, Listening-Acc 0.2358, Object-Clf-Acc: 0.4067, Text-Clf-Acc: 0.8131
+2021-11-20 13:14:15,074 - test: Epoch-time 2.022
+2021-11-20 13:14:15,074 - Best so far 0.236 (@epoch 1)
+2021-11-20 14:16:42,006 - [32mTest accuracy, improved @epoch 2[0m
+2021-11-20 14:16:51,589 - Epoch:2
+2021-11-20 14:16:51,590 - train: Total-Loss 3.4254, Listening-Acc 0.3565, Object-Clf-Acc: 0.4193, Text-Clf-Acc: 0.9161
+2021-11-20 14:16:51,590 - train: Epoch-time 60.499
+2021-11-20 14:16:51,590 - test: Total-Loss 3.5312, Listening-Acc 0.2985, Object-Clf-Acc: 0.4810, Text-Clf-Acc: 0.8914
+2021-11-20 14:16:51,590 - test: Epoch-time 1.949
+2021-11-20 14:16:51,590 - Best so far 0.298 (@epoch 2)
+2021-11-20 15:19:20,663 - [32mTest accuracy, improved @epoch 3[0m
+2021-11-20 15:19:30,202 - Epoch:3
+2021-11-20 15:19:30,202 - train: Total-Loss 2.6921, Listening-Acc 0.4199, Object-Clf-Acc: 0.4870, Text-Clf-Acc: 0.9642
+2021-11-20 15:19:30,203 - train: Epoch-time 60.518
+2021-11-20 15:19:30,203 - test: Total-Loss 3.2713, Listening-Acc 0.3105, Object-Clf-Acc: 0.5249, Text-Clf-Acc: 0.9280
+2021-11-20 15:19:30,203 - test: Epoch-time 1.966
+2021-11-20 15:19:30,203 - Best so far 0.310 (@epoch 3)
+2021-11-20 16:21:57,234 - [32mTest accuracy, improved @epoch 4[0m
+2021-11-20 16:22:06,639 - Epoch:4
+2021-11-20 16:22:06,640 - train: Total-Loss 2.3120, Listening-Acc 0.4675, Object-Clf-Acc: 0.5435, Text-Clf-Acc: 0.9738
+2021-11-20 16:22:06,640 - train: Epoch-time 60.494
+2021-11-20 16:22:06,640 - test: Total-Loss 3.1253, Listening-Acc 0.3184, Object-Clf-Acc: 0.5549, Text-Clf-Acc: 0.9351
+2021-11-20 16:22:06,640 - test: Epoch-time 1.956
+2021-11-20 16:22:06,640 - Best so far 0.318 (@epoch 4)
+2021-11-20 17:24:37,993 - [32mTest accuracy, improved @epoch 5[0m
+2021-11-20 17:24:47,510 - Epoch:5
+2021-11-20 17:24:47,511 - train: Total-Loss 2.0819, Listening-Acc 0.4948, Object-Clf-Acc: 0.5886, Text-Clf-Acc: 0.9765
+2021-11-20 17:24:47,511 - train: Epoch-time 60.576
+2021-11-20 17:24:47,511 - test: Total-Loss 3.2895, Listening-Acc 0.3313, Object-Clf-Acc: 0.5579, Text-Clf-Acc: 0.9383
+2021-11-20 17:24:47,512 - test: Epoch-time 1.946
+2021-11-20 17:24:47,512 - Best so far 0.331 (@epoch 5)
+2021-11-20 18:27:05,486 - [32mTest accuracy, improved @epoch 6[0m
+2021-11-20 18:27:14,915 - Epoch:6
+2021-11-20 18:27:14,916 - train: Total-Loss 1.8567, Listening-Acc 0.5390, Object-Clf-Acc: 0.6263, Text-Clf-Acc: 0.9778
+2021-11-20 18:27:14,916 - train: Epoch-time 60.355
+2021-11-20 18:27:14,916 - test: Total-Loss 3.2424, Listening-Acc 0.3617, Object-Clf-Acc: 0.5721, Text-Clf-Acc: 0.9388
+2021-11-20 18:27:14,916 - test: Epoch-time 1.945
+2021-11-20 18:27:14,916 - Best so far 0.362 (@epoch 6)
+2021-11-20 19:29:47,803 - [32mTest accuracy, improved @epoch 7[0m
+2021-11-20 19:29:57,325 - Epoch:7
+2021-11-20 19:29:57,326 - train: Total-Loss 1.6656, Listening-Acc 0.5881, Object-Clf-Acc: 0.6552, Text-Clf-Acc: 0.9786
+2021-11-20 19:29:57,326 - train: Epoch-time 60.597
+2021-11-20 19:29:57,326 - test: Total-Loss 3.1028, Listening-Acc 0.3770, Object-Clf-Acc: 0.5977, Text-Clf-Acc: 0.9383
+2021-11-20 19:29:57,326 - test: Epoch-time 1.951
+2021-11-20 19:29:57,326 - Best so far 0.377 (@epoch 7)
+2021-11-20 20:32:27,015 - [31mTest accuracy, did not improve @epoch 8[0m
+2021-11-20 20:32:27,016 - Epoch:8
+2021-11-20 20:32:27,016 - train: Total-Loss 1.4822, Listening-Acc 0.6459, Object-Clf-Acc: 0.6784, Text-Clf-Acc: 0.9798
+2021-11-20 20:32:27,016 - train: Epoch-time 60.538
+2021-11-20 20:32:27,017 - test: Total-Loss 3.3804, Listening-Acc 0.3689, Object-Clf-Acc: 0.5934, Text-Clf-Acc: 0.9419
+2021-11-20 20:32:27,017 - test: Epoch-time 1.957
+2021-11-20 20:32:27,017 - Best so far 0.377 (@epoch 7)
+2021-11-20 21:34:54,599 - [32mTest accuracy, improved @epoch 9[0m
+2021-11-20 21:35:04,121 - Epoch:9
+2021-11-20 21:35:04,122 - train: Total-Loss 1.3216, Listening-Acc 0.6974, Object-Clf-Acc: 0.6967, Text-Clf-Acc: 0.9804
+2021-11-20 21:35:04,122 - train: Epoch-time 60.513
+2021-11-20 21:35:04,122 - test: Total-Loss 3.2940, Listening-Acc 0.3952, Object-Clf-Acc: 0.6162, Text-Clf-Acc: 0.9381
+2021-11-20 21:35:04,122 - test: Epoch-time 1.947
+2021-11-20 21:35:04,122 - Best so far 0.395 (@epoch 9)
+2021-11-20 22:37:37,550 - [31mTest accuracy, did not improve @epoch 10[0m
+2021-11-20 22:37:37,551 - Epoch:10
+2021-11-20 22:37:37,551 - train: Total-Loss 1.1835, Listening-Acc 0.7437, Object-Clf-Acc: 0.7129, Text-Clf-Acc: 0.9809
+2021-11-20 22:37:37,551 - train: Epoch-time 60.600
+2021-11-20 22:37:37,551 - test: Total-Loss 3.2714, Listening-Acc 0.3941, Object-Clf-Acc: 0.6166, Text-Clf-Acc: 0.9424
+2021-11-20 22:37:37,551 - test: Epoch-time 1.957
+2021-11-20 22:37:37,552 - Best so far 0.395 (@epoch 9)
+2021-11-20 23:40:07,165 - [32mTest accuracy, improved @epoch 11[0m
+2021-11-20 23:40:16,686 - Epoch:11
+2021-11-20 23:40:16,688 - train: Total-Loss 1.0624, Listening-Acc 0.7831, Object-Clf-Acc: 0.7265, Text-Clf-Acc: 0.9816
+2021-11-20 23:40:16,688 - train: Epoch-time 60.548
+2021-11-20 23:40:16,688 - test: Total-Loss 3.3054, Listening-Acc 0.4017, Object-Clf-Acc: 0.6144, Text-Clf-Acc: 0.9391
+2021-11-20 23:40:16,688 - test: Epoch-time 1.945
+2021-11-20 23:40:16,688 - Best so far 0.402 (@epoch 11)
+2021-11-21 00:42:50,613 - [32mTest accuracy, improved @epoch 12[0m
+2021-11-21 00:43:00,181 - Epoch:12
+2021-11-21 00:43:00,183 - train: Total-Loss 0.9655, Listening-Acc 0.8150, Object-Clf-Acc: 0.7386, Text-Clf-Acc: 0.9820
+2021-11-21 00:43:00,183 - train: Epoch-time 60.615
+2021-11-21 00:43:00,183 - test: Total-Loss 3.8356, Listening-Acc 0.4178, Object-Clf-Acc: 0.5993, Text-Clf-Acc: 0.9405
+2021-11-21 00:43:00,183 - test: Epoch-time 1.951
+2021-11-21 00:43:00,183 - Best so far 0.418 (@epoch 12)
+2021-11-21 01:45:34,631 - [31mTest accuracy, did not improve @epoch 13[0m
+2021-11-21 01:45:34,633 - Epoch:13
+2021-11-21 01:45:34,633 - train: Total-Loss 0.8869, Listening-Acc 0.8390, Object-Clf-Acc: 0.7492, Text-Clf-Acc: 0.9824
+2021-11-21 01:45:34,633 - train: Epoch-time 60.606
+2021-11-21 01:45:34,633 - test: Total-Loss 3.6827, Listening-Acc 0.4075, Object-Clf-Acc: 0.6053, Text-Clf-Acc: 0.9389
+2021-11-21 01:45:34,633 - test: Epoch-time 1.968
+2021-11-21 01:45:34,633 - Best so far 0.418 (@epoch 12)
+2021-11-21 02:47:56,403 - [31mTest accuracy, did not improve @epoch 14[0m
+2021-11-21 02:47:56,404 - Epoch:14
+2021-11-21 02:47:56,404 - train: Total-Loss 0.8237, Listening-Acc 0.8555, Object-Clf-Acc: 0.7588, Text-Clf-Acc: 0.9828
+2021-11-21 02:47:56,404 - train: Epoch-time 60.374
+2021-11-21 02:47:56,404 - test: Total-Loss 3.6097, Listening-Acc 0.4107, Object-Clf-Acc: 0.6203, Text-Clf-Acc: 0.9423
+2021-11-21 02:47:56,404 - test: Epoch-time 1.989
+2021-11-21 02:47:56,404 - Best so far 0.418 (@epoch 12)
+2021-11-21 03:50:09,011 - [32mTest accuracy, improved @epoch 15[0m
+2021-11-21 03:50:18,543 - Epoch:15
+2021-11-21 03:50:18,544 - train: Total-Loss 0.7727, Listening-Acc 0.8697, Object-Clf-Acc: 0.7674, Text-Clf-Acc: 0.9832
+2021-11-21 03:50:18,544 - train: Epoch-time 60.238
+2021-11-21 03:50:18,544 - test: Total-Loss 3.5186, Listening-Acc 0.4203, Object-Clf-Acc: 0.6125, Text-Clf-Acc: 0.9397
+2021-11-21 03:50:18,544 - test: Epoch-time 1.972
+2021-11-21 03:50:18,544 - Best so far 0.420 (@epoch 15)
+2021-11-21 04:52:35,596 - [31mTest accuracy, did not improve @epoch 16[0m
+2021-11-21 04:52:35,597 - Epoch:16
+2021-11-21 04:52:35,597 - train: Total-Loss 0.7275, Listening-Acc 0.8822, Object-Clf-Acc: 0.7754, Text-Clf-Acc: 0.9837
+2021-11-21 04:52:35,597 - train: Epoch-time 60.287
+2021-11-21 04:52:35,597 - test: Total-Loss 3.7417, Listening-Acc 0.4183, Object-Clf-Acc: 0.6221, Text-Clf-Acc: 0.9419
+2021-11-21 04:52:35,597 - test: Epoch-time 1.997
+2021-11-21 04:52:35,597 - Best so far 0.420 (@epoch 15)
+2021-11-21 05:54:55,388 - [31mTest accuracy, did not improve @epoch 17[0m
+2021-11-21 05:54:55,389 - Epoch:17
+2021-11-21 05:54:55,389 - train: Total-Loss 0.6914, Listening-Acc 0.8909, Object-Clf-Acc: 0.7823, Text-Clf-Acc: 0.9838
+2021-11-21 05:54:55,389 - train: Epoch-time 60.331
+2021-11-21 05:54:55,389 - test: Total-Loss 3.8477, Listening-Acc 0.4123, Object-Clf-Acc: 0.6076, Text-Clf-Acc: 0.9423
+2021-11-21 05:54:55,390 - test: Epoch-time 1.999
+2021-11-21 05:54:55,390 - Best so far 0.420 (@epoch 15)
+2021-11-21 06:57:15,012 - [31mTest accuracy, did not improve @epoch 18[0m
+2021-11-21 06:57:15,013 - Epoch:18
+2021-11-21 06:57:15,013 - train: Total-Loss 0.6586, Listening-Acc 0.8988, Object-Clf-Acc: 0.7895, Text-Clf-Acc: 0.9843
+2021-11-21 06:57:15,014 - train: Epoch-time 60.372
+2021-11-21 06:57:15,014 - test: Total-Loss 3.5796, Listening-Acc 0.4182, Object-Clf-Acc: 0.6024, Text-Clf-Acc: 0.9415
+2021-11-21 06:57:15,014 - test: Epoch-time 1.955
+2021-11-21 06:57:15,014 - Best so far 0.420 (@epoch 15)
+2021-11-21 07:59:36,218 - [32mTest accuracy, improved @epoch 19[0m
+2021-11-21 07:59:45,708 - Epoch:19
+2021-11-21 07:59:45,709 - train: Total-Loss 0.6250, Listening-Acc 0.9079, Object-Clf-Acc: 0.7954, Text-Clf-Acc: 0.9853
+2021-11-21 07:59:45,709 - train: Epoch-time 60.409
+2021-11-21 07:59:45,709 - test: Total-Loss 3.6844, Listening-Acc 0.4236, Object-Clf-Acc: 0.6242, Text-Clf-Acc: 0.9376
+2021-11-21 07:59:45,709 - test: Epoch-time 1.945
+2021-11-21 07:59:45,709 - Best so far 0.424 (@epoch 19)
+2021-11-21 09:02:03,863 - [32mTest accuracy, improved @epoch 20[0m
+2021-11-21 09:02:13,377 - Epoch:20
+2021-11-21 09:02:13,378 - train: Total-Loss 0.5989, Listening-Acc 0.9139, Object-Clf-Acc: 0.8015, Text-Clf-Acc: 0.9853
+2021-11-21 09:02:13,378 - train: Epoch-time 60.349
+2021-11-21 09:02:13,378 - test: Total-Loss 3.6511, Listening-Acc 0.4266, Object-Clf-Acc: 0.6288, Text-Clf-Acc: 0.9383
+2021-11-21 09:02:13,378 - test: Epoch-time 1.954
+2021-11-21 09:02:13,378 - Best so far 0.427 (@epoch 20)
+2021-11-21 10:04:47,988 - [32mTest accuracy, improved @epoch 21[0m
+2021-11-21 10:04:57,508 - Epoch:21
+2021-11-21 10:04:57,509 - train: Total-Loss 0.5723, Listening-Acc 0.9194, Object-Clf-Acc: 0.8069, Text-Clf-Acc: 0.9854
+2021-11-21 10:04:57,509 - train: Epoch-time 60.589
+2021-11-21 10:04:57,509 - test: Total-Loss 3.7941, Listening-Acc 0.4366, Object-Clf-Acc: 0.6280, Text-Clf-Acc: 0.9360
+2021-11-21 10:04:57,509 - test: Epoch-time 1.987
+2021-11-21 10:04:57,509 - Best so far 0.437 (@epoch 21)
+2021-11-21 11:07:24,550 - [31mTest accuracy, did not improve @epoch 22[0m
+2021-11-21 11:07:24,624 - Epoch:22
+2021-11-21 11:07:24,624 - train: Total-Loss 0.5517, Listening-Acc 0.9238, Object-Clf-Acc: 0.8112, Text-Clf-Acc: 0.9861
+2021-11-21 11:07:24,625 - train: Epoch-time 60.483
+2021-11-21 11:07:24,625 - test: Total-Loss 4.3069, Listening-Acc 0.4131, Object-Clf-Acc: 0.6088, Text-Clf-Acc: 0.9397
+2021-11-21 11:07:24,625 - test: Epoch-time 1.967
+2021-11-21 11:07:24,625 - Best so far 0.437 (@epoch 21)
+2021-11-21 12:09:01,021 - [31mTest accuracy, did not improve @epoch 23[0m
+2021-11-21 12:09:01,023 - Epoch:23
+2021-11-21 12:09:01,023 - train: Total-Loss 0.5307, Listening-Acc 0.9286, Object-Clf-Acc: 0.8166, Text-Clf-Acc: 0.9865
+2021-11-21 12:09:01,023 - train: Epoch-time 59.625
+2021-11-21 12:09:01,023 - test: Total-Loss 4.3329, Listening-Acc 0.4168, Object-Clf-Acc: 0.6104, Text-Clf-Acc: 0.9396
+2021-11-21 12:09:01,023 - test: Epoch-time 1.981
+2021-11-21 12:09:01,023 - Best so far 0.437 (@epoch 21)
+2021-11-21 13:09:27,994 - [31mTest accuracy, did not improve @epoch 24[0m
+2021-11-21 13:09:27,995 - Epoch:24
+2021-11-21 13:09:27,996 - train: Total-Loss 0.5129, Listening-Acc 0.9317, Object-Clf-Acc: 0.8210, Text-Clf-Acc: 0.9865
+2021-11-21 13:09:27,996 - train: Epoch-time 58.467
+2021-11-21 13:09:27,996 - test: Total-Loss 4.1053, Listening-Acc 0.4104, Object-Clf-Acc: 0.6296, Text-Clf-Acc: 0.9371
+2021-11-21 13:09:27,996 - test: Epoch-time 1.982
+2021-11-21 13:09:27,996 - Best so far 0.437 (@epoch 21)
+2021-11-21 14:10:17,124 - [31mTest accuracy, did not improve @epoch 25[0m
+2021-11-21 14:10:17,125 - Epoch:25
+2021-11-21 14:10:17,126 - train: Total-Loss 0.4927, Listening-Acc 0.9355, Object-Clf-Acc: 0.8254, Text-Clf-Acc: 0.9872
+2021-11-21 14:10:17,126 - train: Epoch-time 58.841
+2021-11-21 14:10:17,126 - test: Total-Loss 4.0945, Listening-Acc 0.4258, Object-Clf-Acc: 0.6296, Text-Clf-Acc: 0.9380
+2021-11-21 14:10:17,126 - test: Epoch-time 1.978
+2021-11-21 14:10:17,126 - Best so far 0.437 (@epoch 21)
+2021-11-21 15:10:51,359 - [32mTest accuracy, improved @epoch 26[0m
+2021-11-21 15:11:00,956 - Epoch:26
+2021-11-21 15:11:00,956 - train: Total-Loss 0.4807, Listening-Acc 0.9382, Object-Clf-Acc: 0.8289, Text-Clf-Acc: 0.9873
+2021-11-21 15:11:00,957 - train: Epoch-time 58.580
+2021-11-21 15:11:00,957 - test: Total-Loss 4.1099, Listening-Acc 0.4375, Object-Clf-Acc: 0.6290, Text-Clf-Acc: 0.9388
+2021-11-21 15:11:00,957 - test: Epoch-time 1.991
+2021-11-21 15:11:00,957 - Best so far 0.438 (@epoch 26)
+2021-11-21 16:11:34,730 - [31mTest accuracy, did not improve @epoch 27[0m
+2021-11-21 16:11:34,731 - Epoch:27
+2021-11-21 16:11:34,732 - train: Total-Loss 0.4625, Listening-Acc 0.9411, Object-Clf-Acc: 0.8334, Text-Clf-Acc: 0.9881
+2021-11-21 16:11:34,732 - train: Epoch-time 58.594
+2021-11-21 16:11:34,732 - test: Total-Loss 4.3529, Listening-Acc 0.4286, Object-Clf-Acc: 0.6168, Text-Clf-Acc: 0.9379
+2021-11-21 16:11:34,732 - test: Epoch-time 1.969
+2021-11-21 16:11:34,732 - Best so far 0.438 (@epoch 26)
+2021-11-21 17:12:38,132 - [31mTest accuracy, did not improve @epoch 28[0m
+2021-11-21 17:12:38,133 - Epoch:28
+2021-11-21 17:12:38,133 - train: Total-Loss 0.4490, Listening-Acc 0.9441, Object-Clf-Acc: 0.8370, Text-Clf-Acc: 0.9885
+2021-11-21 17:12:38,134 - train: Epoch-time 59.074
+2021-11-21 17:12:38,134 - test: Total-Loss 3.7397, Listening-Acc 0.4203, Object-Clf-Acc: 0.6328, Text-Clf-Acc: 0.9373
+2021-11-21 17:12:38,134 - test: Epoch-time 1.982
+2021-11-21 17:12:38,134 - Best so far 0.438 (@epoch 26)
+2021-11-21 18:14:12,456 - [32mTest accuracy, improved @epoch 29[0m
+2021-11-21 18:14:21,961 - Epoch:29
+2021-11-21 18:14:21,962 - train: Total-Loss 0.4382, Listening-Acc 0.9461, Object-Clf-Acc: 0.8406, Text-Clf-Acc: 0.9885
+2021-11-21 18:14:21,962 - train: Epoch-time 59.580
+2021-11-21 18:14:21,962 - test: Total-Loss 4.5208, Listening-Acc 0.4386, Object-Clf-Acc: 0.6012, Text-Clf-Acc: 0.9371
+2021-11-21 18:14:21,963 - test: Epoch-time 1.992
+2021-11-21 18:14:21,963 - Best so far 0.439 (@epoch 29)
+2021-11-21 19:15:35,430 - [31mTest accuracy, did not improve @epoch 30[0m
+2021-11-21 19:15:35,431 - Epoch:30
+2021-11-21 19:15:35,432 - train: Total-Loss 0.3605, Listening-Acc 0.9655, Object-Clf-Acc: 0.8498, Text-Clf-Acc: 0.9892
+2021-11-21 19:15:35,432 - train: Epoch-time 59.239
+2021-11-21 19:15:35,432 - test: Total-Loss 4.4034, Listening-Acc 0.4375, Object-Clf-Acc: 0.6367, Text-Clf-Acc: 0.9373
+2021-11-21 19:15:35,432 - test: Epoch-time 1.985
+2021-11-21 19:15:35,432 - Best so far 0.439 (@epoch 29)
+2021-11-21 20:16:37,212 - [31mTest accuracy, did not improve @epoch 31[0m
+2021-11-21 20:16:37,214 - Epoch:31
+2021-11-21 20:16:37,214 - train: Total-Loss 0.3443, Listening-Acc 0.9699, Object-Clf-Acc: 0.8539, Text-Clf-Acc: 0.9901
+2021-11-21 20:16:37,214 - train: Epoch-time 59.043
+2021-11-21 20:16:37,214 - test: Total-Loss 4.0828, Listening-Acc 0.4307, Object-Clf-Acc: 0.6166, Text-Clf-Acc: 0.9363
+2021-11-21 20:16:37,214 - test: Epoch-time 1.986
+2021-11-21 20:16:37,214 - Best so far 0.439 (@epoch 29)
+2021-11-21 21:17:51,616 - [32mTest accuracy, improved @epoch 32[0m
+2021-11-21 21:18:01,060 - Epoch:32
+2021-11-21 21:18:01,061 - train: Total-Loss 0.3322, Listening-Acc 0.9720, Object-Clf-Acc: 0.8570, Text-Clf-Acc: 0.9897
+2021-11-21 21:18:01,061 - train: Epoch-time 59.255
+2021-11-21 21:18:01,061 - test: Total-Loss 4.4014, Listening-Acc 0.4468, Object-Clf-Acc: 0.6354, Text-Clf-Acc: 0.9348
+2021-11-21 21:18:01,061 - test: Epoch-time 1.985
+2021-11-21 21:18:01,061 - Best so far 0.447 (@epoch 32)
+2021-11-21 22:19:08,199 - [31mTest accuracy, did not improve @epoch 33[0m
+2021-11-21 22:19:08,200 - Epoch:33
+2021-11-21 22:19:08,201 - train: Total-Loss 0.3206, Listening-Acc 0.9742, Object-Clf-Acc: 0.8605, Text-Clf-Acc: 0.9904
+2021-11-21 22:19:08,201 - train: Epoch-time 59.136
+2021-11-21 22:19:08,201 - test: Total-Loss 4.7718, Listening-Acc 0.4378, Object-Clf-Acc: 0.6269, Text-Clf-Acc: 0.9351
+2021-11-21 22:19:08,201 - test: Epoch-time 1.983
+2021-11-21 22:19:08,201 - Best so far 0.447 (@epoch 32)
+2021-11-21 23:20:12,353 - [31mTest accuracy, did not improve @epoch 34[0m
+2021-11-21 23:20:12,354 - Epoch:34
+2021-11-21 23:20:12,354 - train: Total-Loss 0.3134, Listening-Acc 0.9749, Object-Clf-Acc: 0.8626, Text-Clf-Acc: 0.9909
+2021-11-21 23:20:12,355 - train: Epoch-time 59.090
+2021-11-21 23:20:12,355 - test: Total-Loss 4.3823, Listening-Acc 0.4389, Object-Clf-Acc: 0.6288, Text-Clf-Acc: 0.9367
+2021-11-21 23:20:12,355 - test: Epoch-time 1.979
+2021-11-21 23:20:12,355 - Best so far 0.447 (@epoch 32)
+2021-11-22 00:22:00,596 - [31mTest accuracy, did not improve @epoch 35[0m
+2021-11-22 00:22:00,597 - Epoch:35
+2021-11-22 00:22:00,597 - train: Total-Loss 0.3053, Listening-Acc 0.9761, Object-Clf-Acc: 0.8654, Text-Clf-Acc: 0.9907
+2021-11-22 00:22:00,597 - train: Epoch-time 59.853
+2021-11-22 00:22:00,597 - test: Total-Loss 4.6170, Listening-Acc 0.4453, Object-Clf-Acc: 0.6195, Text-Clf-Acc: 0.9364
+2021-11-22 00:22:00,597 - test: Epoch-time 1.951
+2021-11-22 00:22:00,597 - Best so far 0.447 (@epoch 32)
+2021-11-22 01:24:08,698 - [31mTest accuracy, did not improve @epoch 36[0m
+2021-11-22 01:24:08,700 - Epoch:36
+2021-11-22 01:24:08,700 - train: Total-Loss 0.2977, Listening-Acc 0.9772, Object-Clf-Acc: 0.8682, Text-Clf-Acc: 0.9911
+2021-11-22 01:24:08,700 - train: Epoch-time 60.188
+2021-11-22 01:24:08,701 - test: Total-Loss 4.9738, Listening-Acc 0.4383, Object-Clf-Acc: 0.6231, Text-Clf-Acc: 0.9360
+2021-11-22 01:24:08,701 - test: Epoch-time 1.946
+2021-11-22 01:24:08,701 - Best so far 0.447 (@epoch 32)
+2021-11-22 02:26:17,113 - [31mTest accuracy, did not improve @epoch 37[0m
+2021-11-22 02:26:17,114 - Epoch:37
+2021-11-22 02:26:17,114 - train: Total-Loss 0.2911, Listening-Acc 0.9782, Object-Clf-Acc: 0.8703, Text-Clf-Acc: 0.9917
+2021-11-22 02:26:17,114 - train: Epoch-time 60.176
+2021-11-22 02:26:17,114 - test: Total-Loss 5.3636, Listening-Acc 0.4283, Object-Clf-Acc: 0.6147, Text-Clf-Acc: 0.9360
+2021-11-22 02:26:17,115 - test: Epoch-time 1.964
+2021-11-22 02:26:17,115 - Best so far 0.447 (@epoch 32)
+2021-11-22 03:28:34,315 - [31mTest accuracy, did not improve @epoch 38[0m
+2021-11-22 03:28:34,315 - Epoch:38
+2021-11-22 03:28:34,316 - train: Total-Loss 0.2884, Listening-Acc 0.9778, Object-Clf-Acc: 0.8718, Text-Clf-Acc: 0.9918
+2021-11-22 03:28:34,316 - train: Epoch-time 60.323
+2021-11-22 03:28:34,316 - test: Total-Loss 5.1113, Listening-Acc 0.4282, Object-Clf-Acc: 0.6163, Text-Clf-Acc: 0.9348
+2021-11-22 03:28:34,316 - test: Epoch-time 1.963
+2021-11-22 03:28:34,316 - Best so far 0.447 (@epoch 32)
+2021-11-22 04:30:54,541 - [31mTest accuracy, did not improve @epoch 39[0m
+2021-11-22 04:30:54,542 - Epoch:39
+2021-11-22 04:30:54,543 - train: Total-Loss 0.2788, Listening-Acc 0.9793, Object-Clf-Acc: 0.8748, Text-Clf-Acc: 0.9921
+2021-11-22 04:30:54,543 - train: Epoch-time 60.378
+2021-11-22 04:30:54,543 - test: Total-Loss 4.9159, Listening-Acc 0.4366, Object-Clf-Acc: 0.6159, Text-Clf-Acc: 0.9363
+2021-11-22 04:30:54,543 - test: Epoch-time 1.959
+2021-11-22 04:30:54,543 - Best so far 0.447 (@epoch 32)
+2021-11-22 05:33:13,559 - [31mTest accuracy, did not improve @epoch 40[0m
+2021-11-22 05:33:13,560 - Epoch:40
+2021-11-22 05:33:13,560 - train: Total-Loss 0.2774, Listening-Acc 0.9789, Object-Clf-Acc: 0.8763, Text-Clf-Acc: 0.9921
+2021-11-22 05:33:13,560 - train: Epoch-time 60.353
+2021-11-22 05:33:13,561 - test: Total-Loss 4.6920, Listening-Acc 0.4421, Object-Clf-Acc: 0.6227, Text-Clf-Acc: 0.9361
+2021-11-22 05:33:13,561 - test: Epoch-time 1.964
+2021-11-22 05:33:13,561 - Best so far 0.447 (@epoch 32)
+2021-11-22 06:35:36,296 - [31mTest accuracy, did not improve @epoch 41[0m
+2021-11-22 06:35:36,297 - Epoch:41
+2021-11-22 06:35:36,298 - train: Total-Loss 0.2699, Listening-Acc 0.9803, Object-Clf-Acc: 0.8784, Text-Clf-Acc: 0.9922
+2021-11-22 06:35:36,298 - train: Epoch-time 60.423
+2021-11-22 06:35:36,298 - test: Total-Loss 5.0681, Listening-Acc 0.4318, Object-Clf-Acc: 0.6129, Text-Clf-Acc: 0.9340
+2021-11-22 06:35:36,298 - test: Epoch-time 1.955
+2021-11-22 06:35:36,298 - Best so far 0.447 (@epoch 32)
+2021-11-22 07:37:56,942 - [31mTest accuracy, did not improve @epoch 42[0m
+2021-11-22 07:37:56,943 - Epoch:42
+2021-11-22 07:37:56,943 - train: Total-Loss 0.2679, Listening-Acc 0.9794, Object-Clf-Acc: 0.8802, Text-Clf-Acc: 0.9926
+2021-11-22 07:37:56,943 - train: Epoch-time 60.383
+2021-11-22 07:37:56,943 - test: Total-Loss 4.9203, Listening-Acc 0.4424, Object-Clf-Acc: 0.6249, Text-Clf-Acc: 0.9289
+2021-11-22 07:37:56,943 - test: Epoch-time 1.961
+2021-11-22 07:37:56,943 - Best so far 0.447 (@epoch 32)
+2021-11-22 08:40:17,155 - [31mTest accuracy, did not improve @epoch 43[0m
+2021-11-22 08:40:17,156 - Epoch:43
+2021-11-22 08:40:17,156 - train: Total-Loss 0.2598, Listening-Acc 0.9814, Object-Clf-Acc: 0.8822, Text-Clf-Acc: 0.9929
+2021-11-22 08:40:17,156 - train: Epoch-time 60.371
+2021-11-22 08:40:17,156 - test: Total-Loss 5.4722, Listening-Acc 0.4430, Object-Clf-Acc: 0.6314, Text-Clf-Acc: 0.9340
+2021-11-22 08:40:17,156 - test: Epoch-time 1.966
+2021-11-22 08:40:17,156 - Best so far 0.447 (@epoch 32)
+2021-11-22 09:42:41,416 - [31mTest accuracy, did not improve @epoch 44[0m
+2021-11-22 09:42:41,418 - Epoch:44
+2021-11-22 09:42:41,418 - train: Total-Loss 0.2549, Listening-Acc 0.9817, Object-Clf-Acc: 0.8845, Text-Clf-Acc: 0.9926
+2021-11-22 09:42:41,418 - train: Epoch-time 60.427
+2021-11-22 09:42:41,418 - test: Total-Loss 4.8977, Listening-Acc 0.4434, Object-Clf-Acc: 0.6238, Text-Clf-Acc: 0.9353
+2021-11-22 09:42:41,418 - test: Epoch-time 1.978
+2021-11-22 09:42:41,418 - Best so far 0.447 (@epoch 32)
+2021-11-22 10:45:00,179 - [32mTest accuracy, improved @epoch 45[0m
+2021-11-22 10:45:09,644 - Epoch:45
+2021-11-22 10:45:09,645 - train: Total-Loss 0.2258, Listening-Acc 0.9878, Object-Clf-Acc: 0.8896, Text-Clf-Acc: 0.9933
+2021-11-22 10:45:09,645 - train: Epoch-time 60.377
+2021-11-22 10:45:09,645 - test: Total-Loss 5.1830, Listening-Acc 0.4473, Object-Clf-Acc: 0.6278, Text-Clf-Acc: 0.9333
+2021-11-22 10:45:09,645 - test: Epoch-time 1.936
+2021-11-22 10:45:09,645 - Best so far 0.447 (@epoch 45)
+2021-11-22 11:46:51,499 - [31mTest accuracy, did not improve @epoch 46[0m
+2021-11-22 11:46:51,500 - Epoch:46
+2021-11-22 11:46:51,500 - train: Total-Loss 0.2160, Listening-Acc 0.9902, Object-Clf-Acc: 0.8916, Text-Clf-Acc: 0.9937
+2021-11-22 11:46:51,501 - train: Epoch-time 59.767
+2021-11-22 11:46:51,501 - test: Total-Loss 5.2454, Listening-Acc 0.4460, Object-Clf-Acc: 0.6287, Text-Clf-Acc: 0.9343
+2021-11-22 11:46:51,501 - test: Epoch-time 1.930
+2021-11-22 11:46:51,501 - Best so far 0.447 (@epoch 45)
+2021-11-22 12:48:35,126 - [31mTest accuracy, did not improve @epoch 47[0m
+2021-11-22 12:48:35,127 - Epoch:47
+2021-11-22 12:48:35,127 - train: Total-Loss 0.2120, Listening-Acc 0.9902, Object-Clf-Acc: 0.8936, Text-Clf-Acc: 0.9934
+2021-11-22 12:48:35,127 - train: Epoch-time 59.715
+2021-11-22 12:48:35,128 - test: Total-Loss 5.6158, Listening-Acc 0.4422, Object-Clf-Acc: 0.6288, Text-Clf-Acc: 0.9321
+2021-11-22 12:48:35,128 - test: Epoch-time 2.012
+2021-11-22 12:48:35,128 - Best so far 0.447 (@epoch 45)
+2021-11-22 13:50:27,436 - [31mTest accuracy, did not improve @epoch 48[0m
+2021-11-22 13:50:27,437 - Epoch:48
+2021-11-22 13:50:27,437 - train: Total-Loss 0.2088, Listening-Acc 0.9903, Object-Clf-Acc: 0.8948, Text-Clf-Acc: 0.9941
+2021-11-22 13:50:27,438 - train: Epoch-time 59.915
+2021-11-22 13:50:27,438 - test: Total-Loss 5.7335, Listening-Acc 0.4361, Object-Clf-Acc: 0.6242, Text-Clf-Acc: 0.9347
+2021-11-22 13:50:27,438 - test: Epoch-time 1.956
+2021-11-22 13:50:27,438 - Best so far 0.447 (@epoch 45)
+2021-11-22 14:52:28,561 - [31mTest accuracy, did not improve @epoch 49[0m
+2021-11-22 14:52:28,562 - Epoch:49
+2021-11-22 14:52:28,562 - train: Total-Loss 0.2047, Listening-Acc 0.9913, Object-Clf-Acc: 0.8964, Text-Clf-Acc: 0.9942
+2021-11-22 14:52:28,563 - train: Epoch-time 60.081
+2021-11-22 14:52:28,563 - test: Total-Loss 5.6247, Listening-Acc 0.4371, Object-Clf-Acc: 0.6271, Text-Clf-Acc: 0.9323
+2021-11-22 14:52:28,563 - test: Epoch-time 1.937
+2021-11-22 14:52:28,563 - Best so far 0.447 (@epoch 45)
+2021-11-22 15:54:18,319 - [31mTest accuracy, did not improve @epoch 50[0m
+2021-11-22 15:54:18,320 - Epoch:50
+2021-11-22 15:54:18,321 - train: Total-Loss 0.2013, Listening-Acc 0.9916, Object-Clf-Acc: 0.8980, Text-Clf-Acc: 0.9947
+2021-11-22 15:54:18,321 - train: Epoch-time 59.879
+2021-11-22 15:54:18,321 - test: Total-Loss 4.9062, Listening-Acc 0.4433, Object-Clf-Acc: 0.6315, Text-Clf-Acc: 0.9333
+2021-11-22 15:54:18,321 - test: Epoch-time 1.950
+2021-11-22 15:54:18,321 - Best so far 0.447 (@epoch 45)
+2021-11-22 16:56:18,155 - [31mTest accuracy, did not improve @epoch 51[0m
+2021-11-22 16:56:18,156 - Epoch:51
+2021-11-22 16:56:18,157 - train: Total-Loss 0.1984, Listening-Acc 0.9912, Object-Clf-Acc: 0.8992, Text-Clf-Acc: 0.9946
+2021-11-22 16:56:18,157 - train: Epoch-time 60.063
+2021-11-22 16:56:18,157 - test: Total-Loss 5.2591, Listening-Acc 0.4369, Object-Clf-Acc: 0.6250, Text-Clf-Acc: 0.9317
+2021-11-22 16:56:18,157 - test: Epoch-time 1.934
+2021-11-22 16:56:18,157 - Best so far 0.447 (@epoch 45)
+2021-11-22 17:57:55,539 - [31mTest accuracy, did not improve @epoch 52[0m
+2021-11-22 17:57:55,543 - Epoch:52
+2021-11-22 17:57:55,543 - train: Total-Loss 0.1970, Listening-Acc 0.9914, Object-Clf-Acc: 0.9004, Text-Clf-Acc: 0.9945
+2021-11-22 17:57:55,544 - train: Epoch-time 59.661
+2021-11-22 17:57:55,544 - test: Total-Loss 4.9584, Listening-Acc 0.4293, Object-Clf-Acc: 0.6290, Text-Clf-Acc: 0.9337
+2021-11-22 17:57:55,544 - test: Epoch-time 1.962
+2021-11-22 17:57:55,544 - Best so far 0.447 (@epoch 45)
+2021-11-22 18:59:19,096 - [31mTest accuracy, did not improve @epoch 53[0m
+2021-11-22 18:59:19,097 - Epoch:53
+2021-11-22 18:59:19,097 - train: Total-Loss 0.1951, Listening-Acc 0.9914, Object-Clf-Acc: 0.9011, Text-Clf-Acc: 0.9947
+2021-11-22 18:59:19,097 - train: Epoch-time 59.432
+2021-11-22 18:59:19,098 - test: Total-Loss 5.0309, Listening-Acc 0.4437, Object-Clf-Acc: 0.6291, Text-Clf-Acc: 0.9336
+2021-11-22 18:59:19,098 - test: Epoch-time 1.961
+2021-11-22 18:59:19,098 - Best so far 0.447 (@epoch 45)
+2021-11-22 20:00:51,682 - [31mTest accuracy, did not improve @epoch 54[0m
+2021-11-22 20:00:51,683 - Epoch:54
+2021-11-22 20:00:51,683 - train: Total-Loss 0.1910, Listening-Acc 0.9919, Object-Clf-Acc: 0.9030, Text-Clf-Acc: 0.9947
+2021-11-22 20:00:51,684 - train: Epoch-time 59.561
+2021-11-22 20:00:51,684 - test: Total-Loss 5.4130, Listening-Acc 0.4402, Object-Clf-Acc: 0.6289, Text-Clf-Acc: 0.9328
+2021-11-22 20:00:51,684 - test: Epoch-time 1.982
+2021-11-22 20:00:51,684 - Best so far 0.447 (@epoch 45)
+2021-11-22 21:02:26,685 - [31mTest accuracy, did not improve @epoch 55[0m
+2021-11-22 21:02:26,686 - Epoch:55
+2021-11-22 21:02:26,687 - train: Total-Loss 0.1776, Listening-Acc 0.9942, Object-Clf-Acc: 0.9059, Text-Clf-Acc: 0.9946
+2021-11-22 21:02:26,687 - train: Epoch-time 59.618
+2021-11-22 21:02:26,687 - test: Total-Loss 5.5888, Listening-Acc 0.4450, Object-Clf-Acc: 0.6370, Text-Clf-Acc: 0.9333
+2021-11-22 21:02:26,687 - test: Epoch-time 1.965
+2021-11-22 21:02:26,687 - Best so far 0.447 (@epoch 45)
+2021-11-22 22:03:49,187 - [32mTest accuracy, improved @epoch 56[0m
+2021-11-22 22:03:58,559 - Epoch:56
+2021-11-22 22:03:58,561 - train: Total-Loss 0.1723, Listening-Acc 0.9953, Object-Clf-Acc: 0.9071, Text-Clf-Acc: 0.9952
+2021-11-22 22:03:58,561 - train: Epoch-time 59.419
+2021-11-22 22:03:58,561 - test: Total-Loss 5.2242, Listening-Acc 0.4485, Object-Clf-Acc: 0.6285, Text-Clf-Acc: 0.9312
+2021-11-22 22:03:58,561 - test: Epoch-time 1.956
+2021-11-22 22:03:58,561 - Best so far 0.448 (@epoch 56)
+2021-11-22 23:05:26,144 - [31mTest accuracy, did not improve @epoch 57[0m
+2021-11-22 23:05:26,146 - Epoch:57
+2021-11-22 23:05:26,146 - train: Total-Loss 0.1690, Listening-Acc 0.9954, Object-Clf-Acc: 0.9085, Text-Clf-Acc: 0.9951
+2021-11-22 23:05:26,146 - train: Epoch-time 59.497
+2021-11-22 23:05:26,147 - test: Total-Loss 5.7133, Listening-Acc 0.4433, Object-Clf-Acc: 0.6312, Text-Clf-Acc: 0.9308
+2021-11-22 23:05:26,147 - test: Epoch-time 1.963
+2021-11-22 23:05:26,147 - Best so far 0.448 (@epoch 56)
+2021-11-23 00:06:53,668 - [31mTest accuracy, did not improve @epoch 58[0m
+2021-11-23 00:06:53,669 - Epoch:58
+2021-11-23 00:06:53,670 - train: Total-Loss 0.1675, Listening-Acc 0.9956, Object-Clf-Acc: 0.9096, Text-Clf-Acc: 0.9954
+2021-11-23 00:06:53,670 - train: Epoch-time 59.502
+2021-11-23 00:06:53,670 - test: Total-Loss 5.9392, Listening-Acc 0.4414, Object-Clf-Acc: 0.6124, Text-Clf-Acc: 0.9333
+2021-11-23 00:06:53,670 - test: Epoch-time 1.956
+2021-11-23 00:06:53,670 - Best so far 0.448 (@epoch 56)
+2021-11-23 01:08:30,610 - [31mTest accuracy, did not improve @epoch 59[0m
+2021-11-23 01:08:30,611 - Epoch:59
+2021-11-23 01:08:30,611 - train: Total-Loss 0.1649, Listening-Acc 0.9958, Object-Clf-Acc: 0.9105, Text-Clf-Acc: 0.9955
+2021-11-23 01:08:30,611 - train: Epoch-time 59.648
+2021-11-23 01:08:30,611 - test: Total-Loss 5.5817, Listening-Acc 0.4442, Object-Clf-Acc: 0.6309, Text-Clf-Acc: 0.9328
+2021-11-23 01:08:30,611 - test: Epoch-time 1.968
+2021-11-23 01:08:30,611 - Best so far 0.448 (@epoch 56)
+2021-11-23 02:10:01,294 - [32mTest accuracy, improved @epoch 60[0m
+2021-11-23 02:10:10,663 - Epoch:60
+2021-11-23 02:10:10,664 - train: Total-Loss 0.1628, Listening-Acc 0.9962, Object-Clf-Acc: 0.9112, Text-Clf-Acc: 0.9957
+2021-11-23 02:10:10,664 - train: Epoch-time 59.552
+2021-11-23 02:10:10,664 - test: Total-Loss 5.5028, Listening-Acc 0.4486, Object-Clf-Acc: 0.6174, Text-Clf-Acc: 0.9343
+2021-11-23 02:10:10,664 - test: Epoch-time 1.959
+2021-11-23 02:10:10,664 - Best so far 0.449 (@epoch 60)
+2021-11-23 03:11:34,923 - [31mTest accuracy, did not improve @epoch 61[0m
+2021-11-23 03:11:34,924 - Epoch:61
+2021-11-23 03:11:34,925 - train: Total-Loss 0.1626, Listening-Acc 0.9954, Object-Clf-Acc: 0.9119, Text-Clf-Acc: 0.9954
+2021-11-23 03:11:34,925 - train: Epoch-time 59.445
+2021-11-23 03:11:34,925 - test: Total-Loss 5.5323, Listening-Acc 0.4442, Object-Clf-Acc: 0.6296, Text-Clf-Acc: 0.9307
+2021-11-23 03:11:34,925 - test: Epoch-time 1.959
+2021-11-23 03:11:34,925 - Best so far 0.449 (@epoch 60)
+2021-11-23 04:13:03,187 - [32mTest accuracy, improved @epoch 62[0m
+2021-11-23 04:13:12,708 - Epoch:62
+2021-11-23 04:13:12,709 - train: Total-Loss 0.1603, Listening-Acc 0.9957, Object-Clf-Acc: 0.9130, Text-Clf-Acc: 0.9957
+2021-11-23 04:13:12,709 - train: Epoch-time 59.495
+2021-11-23 04:13:12,709 - test: Total-Loss 5.7062, Listening-Acc 0.4489, Object-Clf-Acc: 0.6223, Text-Clf-Acc: 0.9336
+2021-11-23 04:13:12,710 - test: Epoch-time 1.976
+2021-11-23 04:13:12,710 - Best so far 0.449 (@epoch 62)
+2021-11-23 05:14:25,630 - [32mTest accuracy, improved @epoch 63[0m
+2021-11-23 05:14:35,045 - Epoch:63
+2021-11-23 05:14:35,046 - train: Total-Loss 0.1561, Listening-Acc 0.9962, Object-Clf-Acc: 0.9142, Text-Clf-Acc: 0.9959
+2021-11-23 05:14:35,046 - train: Epoch-time 59.265
+2021-11-23 05:14:35,046 - test: Total-Loss 5.5065, Listening-Acc 0.4514, Object-Clf-Acc: 0.6330, Text-Clf-Acc: 0.9325
+2021-11-23 05:14:35,046 - test: Epoch-time 1.950
+2021-11-23 05:14:35,046 - Best so far 0.451 (@epoch 63)
+2021-11-23 06:13:09,936 - [31mTest accuracy, did not improve @epoch 64[0m
+2021-11-23 06:13:09,937 - Epoch:64
+2021-11-23 06:13:09,937 - train: Total-Loss 0.1558, Listening-Acc 0.9962, Object-Clf-Acc: 0.9148, Text-Clf-Acc: 0.9959
+2021-11-23 06:13:09,937 - train: Epoch-time 56.626
+2021-11-23 06:13:09,938 - test: Total-Loss 5.2997, Listening-Acc 0.4477, Object-Clf-Acc: 0.6234, Text-Clf-Acc: 0.9333
+2021-11-23 06:13:09,938 - test: Epoch-time 1.956
+2021-11-23 06:13:09,938 - Best so far 0.451 (@epoch 63)
+2021-11-23 07:11:41,773 - [31mTest accuracy, did not improve @epoch 65[0m
+2021-11-23 07:11:41,774 - Epoch:65
+2021-11-23 07:11:41,774 - train: Total-Loss 0.1484, Listening-Acc 0.9974, Object-Clf-Acc: 0.9167, Text-Clf-Acc: 0.9961
+2021-11-23 07:11:41,774 - train: Epoch-time 56.563
+2021-11-23 07:11:41,774 - test: Total-Loss 6.2286, Listening-Acc 0.4482, Object-Clf-Acc: 0.6342, Text-Clf-Acc: 0.9329
+2021-11-23 07:11:41,774 - test: Epoch-time 1.968
+2021-11-23 07:11:41,774 - Best so far 0.451 (@epoch 63)
+2021-11-23 08:10:36,047 - [31mTest accuracy, did not improve @epoch 66[0m
+2021-11-23 08:10:36,048 - Epoch:66
+2021-11-23 08:10:36,048 - train: Total-Loss 0.1456, Listening-Acc 0.9978, Object-Clf-Acc: 0.9177, Text-Clf-Acc: 0.9962
+2021-11-23 08:10:36,048 - train: Epoch-time 56.959
+2021-11-23 08:10:36,049 - test: Total-Loss 6.3079, Listening-Acc 0.4485, Object-Clf-Acc: 0.6278, Text-Clf-Acc: 0.9325
+2021-11-23 08:10:36,049 - test: Epoch-time 1.945
+2021-11-23 08:10:36,049 - Best so far 0.451 (@epoch 63)
+2021-11-23 09:09:15,676 - [32mTest accuracy, improved @epoch 67[0m
+2021-11-23 09:09:24,855 - Epoch:67
+2021-11-23 09:09:24,862 - train: Total-Loss 0.1433, Listening-Acc 0.9979, Object-Clf-Acc: 0.9185, Text-Clf-Acc: 0.9960
+2021-11-23 09:09:24,863 - train: Epoch-time 56.693
+2021-11-23 09:09:24,863 - test: Total-Loss 6.0271, Listening-Acc 0.4641, Object-Clf-Acc: 0.6290, Text-Clf-Acc: 0.9309
+2021-11-23 09:09:24,863 - test: Epoch-time 1.967
+2021-11-23 09:09:24,863 - Best so far 0.464 (@epoch 67)
+2021-11-23 10:08:14,826 - [31mTest accuracy, did not improve @epoch 68[0m
+2021-11-23 10:08:14,827 - Epoch:68
+2021-11-23 10:08:14,828 - train: Total-Loss 0.1437, Listening-Acc 0.9977, Object-Clf-Acc: 0.9190, Text-Clf-Acc: 0.9959
+2021-11-23 10:08:14,828 - train: Epoch-time 56.879
+2021-11-23 10:08:14,828 - test: Total-Loss 6.1208, Listening-Acc 0.4591, Object-Clf-Acc: 0.6295, Text-Clf-Acc: 0.9305
+2021-11-23 10:08:14,828 - test: Epoch-time 1.954
+2021-11-23 10:08:14,828 - Best so far 0.464 (@epoch 67)
+2021-11-23 11:06:51,583 - [31mTest accuracy, did not improve @epoch 69[0m
+2021-11-23 11:06:51,584 - Epoch:69
+2021-11-23 11:06:51,584 - train: Total-Loss 0.1408, Listening-Acc 0.9982, Object-Clf-Acc: 0.9199, Text-Clf-Acc: 0.9962
+2021-11-23 11:06:51,584 - train: Epoch-time 56.666
+2021-11-23 11:06:51,584 - test: Total-Loss 6.1582, Listening-Acc 0.4612, Object-Clf-Acc: 0.6293, Text-Clf-Acc: 0.9313
+2021-11-23 11:06:51,584 - test: Epoch-time 1.947
+2021-11-23 11:06:51,584 - Best so far 0.464 (@epoch 67)
+2021-11-23 12:05:32,811 - [31mTest accuracy, did not improve @epoch 70[0m
+2021-11-23 12:05:32,812 - Epoch:70
+2021-11-23 12:05:32,812 - train: Total-Loss 0.1409, Listening-Acc 0.9980, Object-Clf-Acc: 0.9205, Text-Clf-Acc: 0.9961
+2021-11-23 12:05:32,812 - train: Epoch-time 56.728
+2021-11-23 12:05:32,812 - test: Total-Loss 5.8817, Listening-Acc 0.4541, Object-Clf-Acc: 0.6196, Text-Clf-Acc: 0.9295
+2021-11-23 12:05:32,812 - test: Epoch-time 1.959
+2021-11-23 12:05:32,812 - Best so far 0.464 (@epoch 67)
+2021-11-23 13:04:28,604 - [31mTest accuracy, did not improve @epoch 71[0m
+2021-11-23 13:04:28,604 - Epoch:71
+2021-11-23 13:04:28,604 - train: Total-Loss 0.1389, Listening-Acc 0.9981, Object-Clf-Acc: 0.9209, Text-Clf-Acc: 0.9964
+2021-11-23 13:04:28,604 - train: Epoch-time 56.972
+2021-11-23 13:04:28,605 - test: Total-Loss 6.0475, Listening-Acc 0.4518, Object-Clf-Acc: 0.6170, Text-Clf-Acc: 0.9305
+2021-11-23 13:04:28,605 - test: Epoch-time 1.957
+2021-11-23 13:04:28,605 - Best so far 0.464 (@epoch 67)
+2021-11-23 14:03:17,457 - [31mTest accuracy, did not improve @epoch 72[0m
+2021-11-23 14:03:17,458 - Epoch:72
+2021-11-23 14:03:17,458 - train: Total-Loss 0.1379, Listening-Acc 0.9979, Object-Clf-Acc: 0.9215, Text-Clf-Acc: 0.9965
+2021-11-23 14:03:17,458 - train: Epoch-time 56.842
+2021-11-23 14:03:17,458 - test: Total-Loss 6.2514, Listening-Acc 0.4549, Object-Clf-Acc: 0.6237, Text-Clf-Acc: 0.9300
+2021-11-23 14:03:17,458 - test: Epoch-time 1.972
+2021-11-23 14:03:17,458 - Best so far 0.464 (@epoch 67)
+2021-11-23 15:01:53,938 - [31mTest accuracy, did not improve @epoch 73[0m
+2021-11-23 15:01:53,939 - Epoch:73
+2021-11-23 15:01:53,939 - train: Total-Loss 0.1374, Listening-Acc 0.9978, Object-Clf-Acc: 0.9221, Text-Clf-Acc: 0.9967
+2021-11-23 15:01:53,939 - train: Epoch-time 56.643
+2021-11-23 15:01:53,940 - test: Total-Loss 5.5535, Listening-Acc 0.4528, Object-Clf-Acc: 0.6225, Text-Clf-Acc: 0.9291
+2021-11-23 15:01:53,940 - test: Epoch-time 1.965
+2021-11-23 15:01:53,940 - Best so far 0.464 (@epoch 67)
+2021-11-23 16:00:40,765 - [31mTest accuracy, did not improve @epoch 74[0m
+2021-11-23 16:00:40,766 - Epoch:74
+2021-11-23 16:00:40,766 - train: Total-Loss 0.1355, Listening-Acc 0.9978, Object-Clf-Acc: 0.9229, Text-Clf-Acc: 0.9965
+2021-11-23 16:00:40,766 - train: Epoch-time 56.812
+2021-11-23 16:00:40,766 - test: Total-Loss 6.0391, Listening-Acc 0.4554, Object-Clf-Acc: 0.6164, Text-Clf-Acc: 0.9299
+2021-11-23 16:00:40,766 - test: Epoch-time 1.968
+2021-11-23 16:00:40,767 - Best so far 0.464 (@epoch 67)
+2021-11-23 16:59:12,272 - [31mTest accuracy, did not improve @epoch 75[0m
+2021-11-23 16:59:12,275 - Epoch:75
+2021-11-23 16:59:12,275 - train: Total-Loss 0.1322, Listening-Acc 0.9986, Object-Clf-Acc: 0.9238, Text-Clf-Acc: 0.9968
+2021-11-23 16:59:12,275 - train: Epoch-time 56.573
+2021-11-23 16:59:12,275 - test: Total-Loss 5.9206, Listening-Acc 0.4565, Object-Clf-Acc: 0.6218, Text-Clf-Acc: 0.9317
+2021-11-23 16:59:12,275 - test: Epoch-time 1.952
+2021-11-23 16:59:12,275 - Best so far 0.464 (@epoch 67)
+2021-11-23 17:57:47,654 - [31mTest accuracy, did not improve @epoch 76[0m
+2021-11-23 17:57:47,655 - Epoch:76
+2021-11-23 17:57:47,655 - train: Total-Loss 0.1298, Listening-Acc 0.9988, Object-Clf-Acc: 0.9247, Text-Clf-Acc: 0.9967
+2021-11-23 17:57:47,656 - train: Epoch-time 56.637
+2021-11-23 17:57:47,656 - test: Total-Loss 6.7227, Listening-Acc 0.4558, Object-Clf-Acc: 0.6170, Text-Clf-Acc: 0.9320
+2021-11-23 17:57:47,656 - test: Epoch-time 1.952
+2021-11-23 17:57:47,656 - Best so far 0.464 (@epoch 67)
+2021-11-23 18:56:36,422 - [31mTest accuracy, did not improve @epoch 77[0m
+2021-11-23 18:56:36,423 - Epoch:77
+2021-11-23 18:56:36,423 - train: Total-Loss 0.1291, Listening-Acc 0.9988, Object-Clf-Acc: 0.9251, Text-Clf-Acc: 0.9967
+2021-11-23 18:56:36,423 - train: Epoch-time 56.864
+2021-11-23 18:56:36,423 - test: Total-Loss 6.3207, Listening-Acc 0.4534, Object-Clf-Acc: 0.6257, Text-Clf-Acc: 0.9313
+2021-11-23 18:56:36,423 - test: Epoch-time 1.949
+2021-11-23 18:56:36,423 - Best so far 0.464 (@epoch 67)
+2021-11-23 19:55:16,309 - [31mTest accuracy, did not improve @epoch 78[0m
+2021-11-23 19:55:16,310 - Epoch:78
+2021-11-23 19:55:16,310 - train: Total-Loss 0.1282, Listening-Acc 0.9987, Object-Clf-Acc: 0.9256, Text-Clf-Acc: 0.9968
+2021-11-23 19:55:16,311 - train: Epoch-time 56.704
+2021-11-23 19:55:16,311 - test: Total-Loss 6.5427, Listening-Acc 0.4558, Object-Clf-Acc: 0.6310, Text-Clf-Acc: 0.9313
+2021-11-23 19:55:16,311 - test: Epoch-time 1.961
+2021-11-23 19:55:16,311 - Best so far 0.464 (@epoch 67)
+2021-11-23 20:53:56,211 - [31mTest accuracy, did not improve @epoch 79[0m
+2021-11-23 20:53:56,212 - Epoch:79
+2021-11-23 20:53:56,213 - train: Total-Loss 0.1268, Listening-Acc 0.9989, Object-Clf-Acc: 0.9261, Text-Clf-Acc: 0.9967
+2021-11-23 20:53:56,213 - train: Epoch-time 56.714
+2021-11-23 20:53:56,213 - test: Total-Loss 6.5784, Listening-Acc 0.4552, Object-Clf-Acc: 0.6201, Text-Clf-Acc: 0.9333
+2021-11-23 20:53:56,213 - test: Epoch-time 1.950
+2021-11-23 20:53:56,213 - Best so far 0.464 (@epoch 67)
+2021-11-23 21:52:52,317 - [31mTest accuracy, did not improve @epoch 80[0m
+2021-11-23 21:52:52,318 - Epoch:80
+2021-11-23 21:52:52,318 - train: Total-Loss 0.1268, Listening-Acc 0.9989, Object-Clf-Acc: 0.9263, Text-Clf-Acc: 0.9967
+2021-11-23 21:52:52,318 - train: Epoch-time 56.980
+2021-11-23 21:52:52,318 - test: Total-Loss 6.4019, Listening-Acc 0.4520, Object-Clf-Acc: 0.6214, Text-Clf-Acc: 0.9311
+2021-11-23 21:52:52,318 - test: Epoch-time 1.955
+2021-11-23 21:52:52,318 - Best so far 0.464 (@epoch 67)
+2021-11-23 22:51:23,339 - [31mTest accuracy, did not improve @epoch 81[0m
+2021-11-23 22:51:23,340 - Epoch:81
+2021-11-23 22:51:23,340 - train: Total-Loss 0.1266, Listening-Acc 0.9988, Object-Clf-Acc: 0.9265, Text-Clf-Acc: 0.9966
+2021-11-23 22:51:23,340 - train: Epoch-time 56.560
+2021-11-23 22:51:23,340 - test: Total-Loss 6.7486, Listening-Acc 0.4504, Object-Clf-Acc: 0.6098, Text-Clf-Acc: 0.9317
+2021-11-23 22:51:23,340 - test: Epoch-time 1.956
+2021-11-23 22:51:23,340 - Best so far 0.464 (@epoch 67)
+2021-11-23 23:49:50,748 - [31mTest accuracy, did not improve @epoch 82[0m
+2021-11-23 23:49:50,749 - Epoch:82
+2021-11-23 23:49:50,749 - train: Total-Loss 0.1251, Listening-Acc 0.9989, Object-Clf-Acc: 0.9272, Text-Clf-Acc: 0.9969
+2021-11-23 23:49:50,749 - train: Epoch-time 56.502
+2021-11-23 23:49:50,749 - test: Total-Loss 6.7427, Listening-Acc 0.4530, Object-Clf-Acc: 0.6189, Text-Clf-Acc: 0.9313
+2021-11-23 23:49:50,749 - test: Epoch-time 1.955
+2021-11-23 23:49:50,749 - Best so far 0.464 (@epoch 67)
+2021-11-24 00:48:33,349 - [31mTest accuracy, did not improve @epoch 83[0m
+2021-11-24 00:48:33,350 - Epoch:83
+2021-11-24 00:48:33,350 - train: Total-Loss 0.1248, Listening-Acc 0.9990, Object-Clf-Acc: 0.9274, Text-Clf-Acc: 0.9968
+2021-11-24 00:48:33,350 - train: Epoch-time 56.756
+2021-11-24 00:48:33,350 - test: Total-Loss 6.9677, Listening-Acc 0.4496, Object-Clf-Acc: 0.6122, Text-Clf-Acc: 0.9301
+2021-11-24 00:48:33,350 - test: Epoch-time 1.954
+2021-11-24 00:48:33,350 - Best so far 0.464 (@epoch 67)
+2021-11-24 01:47:05,265 - [31mTest accuracy, did not improve @epoch 84[0m
+2021-11-24 01:47:05,266 - Epoch:84
+2021-11-24 01:47:05,266 - train: Total-Loss 0.1233, Listening-Acc 0.9989, Object-Clf-Acc: 0.9279, Text-Clf-Acc: 0.9969
+2021-11-24 01:47:05,266 - train: Epoch-time 56.582
+2021-11-24 01:47:05,266 - test: Total-Loss 6.5516, Listening-Acc 0.4581, Object-Clf-Acc: 0.6104, Text-Clf-Acc: 0.9309
+2021-11-24 01:47:05,266 - test: Epoch-time 1.950
+2021-11-24 01:47:05,266 - Best so far 0.464 (@epoch 67)
+2021-11-24 02:45:37,747 - [31mTest accuracy, did not improve @epoch 85[0m
+2021-11-24 02:45:37,747 - Epoch:85
+2021-11-24 02:45:37,748 - train: Total-Loss 0.1214, Listening-Acc 0.9992, Object-Clf-Acc: 0.9287, Text-Clf-Acc: 0.9970
+2021-11-24 02:45:37,748 - train: Epoch-time 56.590
+2021-11-24 02:45:37,748 - test: Total-Loss 6.7952, Listening-Acc 0.4556, Object-Clf-Acc: 0.6093, Text-Clf-Acc: 0.9327
+2021-11-24 02:45:37,748 - test: Epoch-time 1.951
+2021-11-24 02:45:37,748 - Best so far 0.464 (@epoch 67)
+2021-11-24 03:44:10,984 - [31mTest accuracy, did not improve @epoch 86[0m
+2021-11-24 03:44:10,985 - Epoch:86
+2021-11-24 03:44:10,985 - train: Total-Loss 0.1212, Listening-Acc 0.9990, Object-Clf-Acc: 0.9291, Text-Clf-Acc: 0.9972
+2021-11-24 03:44:10,985 - train: Epoch-time 56.598
+2021-11-24 03:44:10,985 - test: Total-Loss 6.5036, Listening-Acc 0.4540, Object-Clf-Acc: 0.6256, Text-Clf-Acc: 0.9323
+2021-11-24 03:44:10,985 - test: Epoch-time 1.956
+2021-11-24 03:44:10,985 - Best so far 0.464 (@epoch 67)
+2021-11-24 04:44:16,369 - [31mTest accuracy, did not improve @epoch 87[0m
+2021-11-24 04:44:16,370 - Epoch:87
+2021-11-24 04:44:16,371 - train: Total-Loss 0.1204, Listening-Acc 0.9992, Object-Clf-Acc: 0.9290, Text-Clf-Acc: 0.9971
+2021-11-24 04:44:16,371 - train: Epoch-time 58.111
+2021-11-24 04:44:16,371 - test: Total-Loss 6.6552, Listening-Acc 0.4569, Object-Clf-Acc: 0.6221, Text-Clf-Acc: 0.9313
+2021-11-24 04:44:16,371 - test: Epoch-time 1.979
+2021-11-24 04:44:16,371 - Best so far 0.464 (@epoch 67)
+2021-11-24 05:44:57,322 - [31mTest accuracy, did not improve @epoch 88[0m
+2021-11-24 05:44:57,323 - Epoch:88
+2021-11-24 05:44:57,323 - train: Total-Loss 0.1195, Listening-Acc 0.9992, Object-Clf-Acc: 0.9295, Text-Clf-Acc: 0.9968
+2021-11-24 05:44:57,323 - train: Epoch-time 58.706
+2021-11-24 05:44:57,323 - test: Total-Loss 6.5084, Listening-Acc 0.4550, Object-Clf-Acc: 0.6280, Text-Clf-Acc: 0.9317
+2021-11-24 05:44:57,324 - test: Epoch-time 1.976
+2021-11-24 05:44:57,324 - Best so far 0.464 (@epoch 67)
+2021-11-24 06:45:37,075 - [31mTest accuracy, did not improve @epoch 89[0m
+2021-11-24 06:45:37,075 - Epoch:89
+2021-11-24 06:45:37,076 - train: Total-Loss 0.1195, Listening-Acc 0.9991, Object-Clf-Acc: 0.9299, Text-Clf-Acc: 0.9970
+2021-11-24 06:45:37,076 - train: Epoch-time 58.681
+2021-11-24 06:45:37,076 - test: Total-Loss 6.4978, Listening-Acc 0.4572, Object-Clf-Acc: 0.6174, Text-Clf-Acc: 0.9325
+2021-11-24 06:45:37,076 - test: Epoch-time 1.981
+2021-11-24 06:45:37,076 - Best so far 0.464 (@epoch 67)
+2021-11-24 07:46:19,933 - [31mTest accuracy, did not improve @epoch 90[0m
+2021-11-24 07:46:19,934 - Epoch:90
+2021-11-24 07:46:19,934 - train: Total-Loss 0.1189, Listening-Acc 0.9994, Object-Clf-Acc: 0.9301, Text-Clf-Acc: 0.9971
+2021-11-24 07:46:19,934 - train: Epoch-time 58.726
+2021-11-24 07:46:19,934 - test: Total-Loss 6.4226, Listening-Acc 0.4604, Object-Clf-Acc: 0.6251, Text-Clf-Acc: 0.9323
+2021-11-24 07:46:19,934 - test: Epoch-time 1.988
+2021-11-24 07:46:19,934 - Best so far 0.464 (@epoch 67)
+2021-11-24 08:47:09,513 - [31mTest accuracy, did not improve @epoch 91[0m
+2021-11-24 08:47:09,514 - Epoch:91
+2021-11-24 08:47:09,514 - train: Total-Loss 0.1178, Listening-Acc 0.9994, Object-Clf-Acc: 0.9305, Text-Clf-Acc: 0.9973
+2021-11-24 08:47:09,514 - train: Epoch-time 58.830
+2021-11-24 08:47:09,514 - test: Total-Loss 6.5883, Listening-Acc 0.4585, Object-Clf-Acc: 0.6214, Text-Clf-Acc: 0.9323
+2021-11-24 08:47:09,514 - test: Epoch-time 1.996
+2021-11-24 08:47:09,514 - Best so far 0.464 (@epoch 67)
+2021-11-24 09:48:09,462 - [31mTest accuracy, did not improve @epoch 92[0m
+2021-11-24 09:48:09,463 - Epoch:92
+2021-11-24 09:48:09,463 - train: Total-Loss 0.1180, Listening-Acc 0.9992, Object-Clf-Acc: 0.9306, Text-Clf-Acc: 0.9970
+2021-11-24 09:48:09,463 - train: Epoch-time 59.031
+2021-11-24 09:48:09,463 - test: Total-Loss 6.5374, Listening-Acc 0.4524, Object-Clf-Acc: 0.6266, Text-Clf-Acc: 0.9315
+2021-11-24 09:48:09,463 - test: Epoch-time 1.968
+2021-11-24 09:48:09,463 - Best so far 0.464 (@epoch 67)
+2021-11-24 10:49:00,841 - [31mTest accuracy, did not improve @epoch 93[0m
+2021-11-24 10:49:00,842 - Epoch:93
+2021-11-24 10:49:00,842 - train: Total-Loss 0.1167, Listening-Acc 0.9993, Object-Clf-Acc: 0.9311, Text-Clf-Acc: 0.9972
+2021-11-24 10:49:00,842 - train: Epoch-time 58.894
+2021-11-24 10:49:00,843 - test: Total-Loss 6.7559, Listening-Acc 0.4497, Object-Clf-Acc: 0.6339, Text-Clf-Acc: 0.9336
+2021-11-24 10:49:00,843 - test: Epoch-time 1.962
+2021-11-24 10:49:00,843 - Best so far 0.464 (@epoch 67)
+2021-11-24 11:49:59,286 - [31mTest accuracy, did not improve @epoch 94[0m
+2021-11-24 11:49:59,287 - Epoch:94
+2021-11-24 11:49:59,287 - train: Total-Loss 0.1167, Listening-Acc 0.9993, Object-Clf-Acc: 0.9311, Text-Clf-Acc: 0.9969
+2021-11-24 11:49:59,287 - train: Epoch-time 59.006
+2021-11-24 11:49:59,288 - test: Total-Loss 6.6136, Listening-Acc 0.4619, Object-Clf-Acc: 0.6295, Text-Clf-Acc: 0.9315
+2021-11-24 11:49:59,288 - test: Epoch-time 1.968
+2021-11-24 11:49:59,288 - Best so far 0.464 (@epoch 67)
+2021-11-24 12:50:52,574 - [31mTest accuracy, did not improve @epoch 95[0m
+2021-11-24 12:50:52,575 - Epoch:95
+2021-11-24 12:50:52,575 - train: Total-Loss 0.1153, Listening-Acc 0.9995, Object-Clf-Acc: 0.9317, Text-Clf-Acc: 0.9976
+2021-11-24 12:50:52,575 - train: Epoch-time 58.912
+2021-11-24 12:50:52,575 - test: Total-Loss 6.9098, Listening-Acc 0.4574, Object-Clf-Acc: 0.6196, Text-Clf-Acc: 0.9308
+2021-11-24 12:50:52,575 - test: Epoch-time 1.976
+2021-11-24 12:50:52,575 - Best so far 0.464 (@epoch 67)
+2021-11-24 13:51:50,182 - [31mTest accuracy, did not improve @epoch 96[0m
+2021-11-24 13:51:50,183 - Epoch:96
+2021-11-24 13:51:50,183 - train: Total-Loss 0.1153, Listening-Acc 0.9993, Object-Clf-Acc: 0.9319, Text-Clf-Acc: 0.9972
+2021-11-24 13:51:50,183 - train: Epoch-time 58.990
+2021-11-24 13:51:50,184 - test: Total-Loss 6.5975, Listening-Acc 0.4587, Object-Clf-Acc: 0.6272, Text-Clf-Acc: 0.9313
+2021-11-24 13:51:50,184 - test: Epoch-time 1.970
+2021-11-24 13:51:50,184 - Best so far 0.464 (@epoch 67)
+2021-11-24 14:52:47,881 - [31mTest accuracy, did not improve @epoch 97[0m
+2021-11-24 14:52:47,882 - Epoch:97
+2021-11-24 14:52:47,882 - train: Total-Loss 0.1149, Listening-Acc 0.9994, Object-Clf-Acc: 0.9321, Text-Clf-Acc: 0.9971
+2021-11-24 14:52:47,883 - train: Epoch-time 59.003
+2021-11-24 14:52:47,883 - test: Total-Loss 6.7846, Listening-Acc 0.4552, Object-Clf-Acc: 0.6207, Text-Clf-Acc: 0.9297
+2021-11-24 14:52:47,883 - test: Epoch-time 1.959
+2021-11-24 14:52:47,883 - Best so far 0.464 (@epoch 67)
+2021-11-24 15:52:02,358 - [31mTest accuracy, did not improve @epoch 98[0m
+2021-11-24 15:52:02,359 - Epoch:98
+2021-11-24 15:52:02,359 - train: Total-Loss 0.1144, Listening-Acc 0.9994, Object-Clf-Acc: 0.9322, Text-Clf-Acc: 0.9973
+2021-11-24 15:52:02,360 - train: Epoch-time 57.264
+2021-11-24 15:52:02,360 - test: Total-Loss 7.1690, Listening-Acc 0.4492, Object-Clf-Acc: 0.5968, Text-Clf-Acc: 0.9309
+2021-11-24 15:52:02,360 - test: Epoch-time 1.977
+2021-11-24 15:52:02,360 - Best so far 0.464 (@epoch 67)
+2021-11-24 16:52:16,923 - [31mTest accuracy, did not improve @epoch 99[0m
+2021-11-24 16:52:16,924 - Epoch:99
+2021-11-24 16:52:16,924 - train: Total-Loss 0.1141, Listening-Acc 0.9995, Object-Clf-Acc: 0.9323, Text-Clf-Acc: 0.9973
+2021-11-24 16:52:16,924 - train: Epoch-time 58.265
+2021-11-24 16:52:16,924 - test: Total-Loss 6.9966, Listening-Acc 0.4560, Object-Clf-Acc: 0.6256, Text-Clf-Acc: 0.9312
+2021-11-24 16:52:16,925 - test: Epoch-time 1.978
+2021-11-24 16:52:16,925 - Best so far 0.464 (@epoch 67)
+2021-11-24 17:53:05,193 - [31mTest accuracy, did not improve @epoch 100[0m
+2021-11-24 17:53:05,194 - Epoch:100
+2021-11-24 17:53:05,194 - train: Total-Loss 0.1137, Listening-Acc 0.9995, Object-Clf-Acc: 0.9327, Text-Clf-Acc: 0.9970
+2021-11-24 17:53:05,194 - train: Epoch-time 58.843
+2021-11-24 17:53:05,195 - test: Total-Loss 7.0003, Listening-Acc 0.4522, Object-Clf-Acc: 0.6108, Text-Clf-Acc: 0.9336
+2021-11-24 17:53:05,195 - test: Epoch-time 1.962
+2021-11-24 17:53:05,195 - Best so far 0.464 (@epoch 67)
+2021-11-24 17:53:05,204 - Finished training successfully. Good job!
